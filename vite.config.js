@@ -6,5 +6,5 @@ export default defineConfig({
   // GitHub Pages project-site deployment:
   // Change this to '/YOUR-REPOSITORY-NAME/' if your repo is not named
   // musthak-portfolio. For a username.github.io repo, use '/'.
-  base: '/musthak-portfolio/',
+  base: '/musthak-portfolio1/',
 })
